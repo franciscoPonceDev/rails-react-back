@@ -33,7 +33,7 @@
 - Then cd into the directory using
 
 ```bash
-> cd hello-rails-react
+> cd rails-react-back
 ```
 
 - Alternatively, you can just download the complete zip file and extract the folder in your directory
